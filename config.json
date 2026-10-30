@@ -1,0 +1,7 @@
+{
+  "port": 7331,
+  "scanRoot": ".",
+  "ollamaUrl": "http://localhost:11434",
+  "defaultModel": "qwen2.5:3b",
+  "staleDays": 180
+}
